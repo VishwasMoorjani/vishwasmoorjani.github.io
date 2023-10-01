@@ -1,3 +1,6 @@
+[![An image of @vishwasmoorjani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwasmoorjani)](https://holopin.io/@vishwasmoorjani)
+
+
 <h1 align="center">Hi 👋, I'm Vishwas Moorjani</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
